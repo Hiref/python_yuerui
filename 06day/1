@@ -1,0 +1,6 @@
+#coding=utf-8
+first_name="韩"
+last_name="跃瑞"
+print('name'first_name+last_name)
+
+
